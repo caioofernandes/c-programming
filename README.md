@@ -1,3 +1,1 @@
-# c-programming
-
-## initializing my knowledge in C language
+# college exercises using C language
